@@ -3,7 +3,7 @@
 - 교재: [혼자 공부하는 컴퓨터구조 + 운영체제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299014282)
 - 정리: [혼자 공부하는 컴퓨터구조 + 운영체제 학습노트](TBD)
 
-## 목차 <sub><sup>4회차</sup></sub>
+## 목차 <sub><sup>1회차</sup></sub>
 
 - [x] 1. 컴퓨터 구조 시작하기
 - [x] 2. 데이터
